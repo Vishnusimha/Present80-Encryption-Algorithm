@@ -1,6 +1,6 @@
 # Present80-Encryption-Algorithm
  
-
+``` C++
 	strcpy(plaintext, "ffffffffffffffff"); 	// Assigning values
 	strcpy(inputKey, "ffffffffffffffffffff");
 
@@ -18,3 +18,4 @@
 	strcpy(inputKey, "00000000000000000000");
 
 	cipher text: a112ffc72f68417b
+```
